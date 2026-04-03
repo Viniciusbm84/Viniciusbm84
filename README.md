@@ -32,10 +32,6 @@ Profissional de tecnologia e inovação com mais de 17 anos de experiência em T
   **Email:** viniciusbm@msn.com  
   **LinkedIn:** www.linkedin.com/in/vinicius-menezes-62822557
 
-- 😄 **Pronouns / Pronomes:**  
-  He/Him  
-  Ele/Dele
-
 - ⚡ **Fun fact / Curiosidade:**  
   I have worked across technical support, infrastructure, systems development, contract management, and innovation leadership — combining operational experience with strategic transformation.  
   Já atuei desde suporte técnico, infraestrutura e desenvolvimento de sistemas até gestão contratual e liderança em inovação — unindo experiência operacional com transformação estratégica.
