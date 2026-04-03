@@ -1,7 +1,6 @@
 ### Tech 👨🏽‍💻👨🏽‍💻
 
-
-# Hi there / Olá 👋, eu sou Vinicius Menezes
+ # Hi there / Olá 👋, eu sou Vinicius Menezes
 
 ## About me / Sobre mim
 
